@@ -1,0 +1,5 @@
+Version 0.01 Swim lesson database.
+James Wellnitz: wellnitz.james@gmail.com
+
+Program scrapes online registry of enrolled students and complies relevant data on each one into a database with
+exportable excel spreadsheets
