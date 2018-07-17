@@ -47,3 +47,127 @@ Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrp
 [Chil[GPU 20
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1531798049517	geckodriver	INFO	geckodriver 0.21.0
+1531798049532	geckodriver	INFO	Listening on 127.0.0.1:59142
+1531798052580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\still\\AppData\\Local\\Temp\\rust_mozprofile.BkDzru7AP9aw"
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+1531798057354	Marionette	INFO	Listening on port 59150
+1531798057943	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20296, Chrome_ChildThread] WARNING: pipe erro[Child 30028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[GPU 20
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+h Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+1531798124052	Marionette	INFO	Listening on port 59207
+1531798124519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531798126787	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+GeckoDriver.prototype.quit()@driver.js:3282
+despatch()@server.js:294
+execute()@server.js:268
+onPacket/<()@server.js:243
+onPacket()@server.js:242
+_onJSONObjectReady/<()@transport.js:500
+[Parent 31240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 31240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25212, Chrome_ChildThread] WARNING: pJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 27524, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531798222015	geckodriver	INFO	geckodriver 0.21.0
+1531798222030	geckodriver	INFO	Listening on 127.0.0.1:59299
+1531798225033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\still\\AppData\\Local\\Temp\\rust_mozprofile.avoq4bU4WjWB"
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+1531798228362	Marionette	INFO	Listening on port 59309
+1531798228448	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 25352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10652, Chrome_ChildThr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 29524, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531798418563	geckodriver	INFO	geckodriver 0.21.0
+1531798418578	geckodriver	INFO	Listening on 127.0.0.1:59421
+1531798421581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\still\\AppData\\Local\\Temp\\rust_mozprofile.D6bb2JPZXnSj"
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+1531798425611	Marionette	INFO	Listening on port 59429
+1531798426362	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1276, [Child 24832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 28200, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531798526532	geckodriver	INFO	geckodriver 0.21.0
+1531798526547	geckodriver	INFO	Listening on 127.0.0.1:59549
+1531798529589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\still\\AppData\\Local\\Temp\\rust_mozprofile.X0CwZHGgj9Aa"
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+1531798535113	Marionette	INFO	Listening on port 59559
+1531798535726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531834214748	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531834214763	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531834214770	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531834403300	geckodriver	INFO	geckodriver 0.21.0
+1531834403310	geckodriver	INFO	Listening on 127.0.0.1:59885
+1531834406357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\still\\AppData\\Local\\Temp\\rust_mozprofile.rOPoIfyxDT5l"
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+1531834419895	Marionette	INFO	Listening on port 59895
+1531834420443	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29032, Chrom
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\still\AppData\Local\openvr\openvrpaths.vrpath
